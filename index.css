@@ -1,0 +1,600 @@
+.main{
+    width: 25%;
+    height: 50px;
+    display: flex;  
+    justify-content: center;
+}
+.line{
+    width: 60px;
+    height: 10px;
+    background-color: black;
+}
+.text1{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    margin-left: 10px;
+}
+.globe{
+    width: 20px;
+    height: 21px;
+    margin-top: 25px;
+}
+.main2{
+    width: 40%;
+    display: flex;
+    justify-content: center;
+    margin-left: 60px;
+    margin-top: 50px;
+
+}
+.main3{
+    display: flex;
+    flex-direction: row;
+    margin: 10px;
+}
+.main4{
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+.maint{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 700;
+    font-size: 80px;
+}
+.maint2{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    margin-top: -50px;
+}
+.icon{
+    width: 304px;
+    height: 356px;
+}
+.main5{
+    width: 453px;
+    height: 200px;
+    margin: 0 auto;
+    background-color: rebeccapurple;
+    border-radius: 10px;
+    color: white;
+    margin-top: 80px;
+}
+.maint3{
+    font-weight: 400;
+    font-size: 25px;
+    display: inline-block;
+    justify-content: center;
+    margin-left: 30px;
+}
+.maint4{
+    font-weight: 400;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    margin-left: 75px;
+    margin-top: -10px;
+}
+.mainn1{
+    width: 33%;
+    display: flex;
+    justify-content: space-around;
+}
+.title{
+    font-weight: 700;
+    font-size: 55px;
+}
+.main6{
+    width: 80%;
+    height: auto;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+.maint5{
+    font-weight: 400;
+    font-size: 24px;
+}
+.img2{
+    width: 314px;
+    height: 315px;
+}
+.main7{
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+.textsss{
+    width: 90%;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+.mainnt{
+    font-weight: 700;
+    font-size: 25px;
+}
+.titl3{
+    font-weight: 400;
+    font-size: 18px;
+}
+.main8{
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+.maint6{
+    font-weight: 700;
+    font-size: 55px;
+}
+.title2{
+    font-weight: 700;
+    font-size: 25px;
+    color: #1E4681;
+}
+.maintt{
+    font-weight: 400;
+    font-size: 18px;
+}
+.textss{
+    width: 80%;
+    display: flex;
+    justify-content: space-around;
+flex-direction: row;
+margin-left: 60px;
+margin-top: 30px;
+}
+ul{
+    font-size: 24px;
+    font-weight: 400;
+}
+.list{
+    display: flex;
+    justify-content: space-around;
+    width: 57%;
+    height: 70vh;
+}
+.boxes{
+    width: 95%;
+    display: flex;
+    justify-content: space-around;
+}
+.box1{
+    width: 399px;
+    height: 328px;
+    box-shadow: 1px 1px 15px rgba(0, 0, 0);
+    border-radius: 30px;
+    margin-top: 30px;
+    margin-left: 80px;
+}
+.boxt{
+    font-size: 30px;
+    font-weight: 700;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+.boxt2{
+    font-size: 25px;
+    font-weight: 400;
+    margin-left: 10px;
+}
+.boxes2{
+    width: 63%;
+    height: 60vh;
+    display: flex;
+    justify-content: space-around;
+}
+.main9{
+    background-color: #EFEFEF;
+    width: 100%;
+    height: 80vh;
+    margin: 0 auto;
+}
+.tittl{
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+}
+.boxx{
+    width: 731px;
+    height: 401px;
+    background-color: white;
+    /* display: flex; */
+    justify-content: center;
+    margin-left: 100px;
+    border-radius: 30px;
+    box-shadow: 1px 1px 15px rgba(0, 0, 0, 0.25);
+}
+.text5{
+    font-weight: 400;
+    font-size: 20px;
+    display: inline-block;
+    margin-left: 50px;
+margin-top: 30px;
+}
+.pp{
+    width: 190px;
+    margin-left: 30px;
+}
+.namee{
+font-weight: 700;
+font-size: 30px;
+display: flex;
+justify-content: center;
+margin-top: 50px;
+}
+.mainnnn{
+    display: flex;
+}
+.fb{
+margin-top: -70px;
+}
+.main10{
+    background-color: #9DC9C8;
+    width: 100%;
+    height: 80vh;
+    margin: 0 auto;
+}
+.maint7{
+    font-weight: 700;
+    font-size: 55px;
+}
+.tittl{
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+}
+.texx{
+    font-weight: 400;
+    font-size: 25px;
+}
+.texx2{
+    font-weight: 400;
+    font-size: 80px;
+    display:flex ;
+    justify-content:space-around ;
+    width: 41%;
+    margin-top: -35px;
+}
+.ll{
+    display:flex ;
+    justify-content:space-around ;
+    width: 28%;
+}
+.end{
+    width: 50%;
+    display: flex;
+    justify-content: space-around;
+    margin-left: 90px;
+}
+.mm{
+    font-weight: 400;
+    font-size: 25px;
+}
+.nn{
+    font-weight: 400;
+    font-size: 18px;
+}
+.container7{
+    background-color: black;
+    width: 100%;
+    height: 400px;
+    
+    }
+    .white {
+        padding-top: 80px;
+        padding-left: 80px;
+    }
+    .wht{
+        width: 60px;
+        height: 10px;
+        margin-left: 80px;
+        background-color: white;
+        border: 1px solid white;
+    }
+    .container7 h3{
+    color: white;
+    margin-left: 80px;
+    }
+    .icon1{
+        margin-top: 40px;
+        margin-left: 80px;
+    }
+    .phn,.eml{
+        display: flex;
+        color: white;
+    }
+    .display7{
+        width: 100%;
+        justify-content: space-between;
+        display: flex;
+    }
+    .s2{
+        display: flex;
+        margin-top: 80px;
+        margin-left: -80px ;
+    }
+    .eml{
+        font-size: 20px;
+        margin-top: 30px;
+        margin-left: -90px;
+    }
+    .eml p{
+        margin-left: 5px;
+        margin-top: 25px;
+
+    }
+    .eml img{
+        width: 32px;
+        margin-top: -50px;
+        margin-left: -90px;
+
+    }
+    .phn img{
+        width: 32px;
+        display: flex;
+        margin-top: -90px;
+        margin-left: -90px;
+    }
+    .phn{
+        font-size: 20px;
+        display: flex;
+        margin-left: 90px;
+    }
+    .phn p{
+        margin: 15px 6px;
+    }
+    .last {
+        width: 200px;
+        color: white;
+        font-size: 17px;
+        margin: -80px 70px;
+    }
+    @media screen and (min-width:320px) and (max-width:991px) {
+        .main{
+display: flex;
+justify-content: space-around;
+width: 30%;
+
+        }
+        .text1{
+           font-size: 10px;
+           display: flex;
+        }
+        .globe{
+            width: 10px;
+            height: 10px;
+        }
+        .main2{
+            display: flex;
+           justify-content: space-around;
+           width: 40%;
+        }
+        .maint{
+            font-size: 37px;
+        }
+        .maint2{
+            font-size: 10px;
+            margin-top: 10px;
+        }
+        .icon{
+            width: 101px;
+            height: 175px;
+            margin-top: 100px;
+        }
+        .main5{
+            width: 225px;
+            height: 93px;
+        }
+        .maint3{
+            font-size: 11px;
+        }
+        .maint4{
+            font-size: 10px;
+            margin-top: 5px;
+        }
+        .title{
+            font-size: 26px;
+    margin-left: 50px;
+        }
+        .maint5{
+            font-size: 12px;
+            margin-left: 15px;
+        }
+        .img2{
+            width: 150px;
+            height: 160px;
+            margin-top: 80px;
+            margin-left: 20px;
+        }
+        .sekil{
+            display: none;
+        }
+        .mainnt{
+            font-size: 12px;
+
+        }
+        .titl3{
+            font-size: 10px;
+        }
+        .maint6{
+            font-size: 26px;
+        }
+        .title2{
+            font-size: 12px;
+        }
+        .maintt{
+            font-size: 10px;
+        }
+        .textss{
+            display: flex;
+            flex-direction: column;
+            width: 50%;
+            margin-left: 30px;
+        }
+        li{
+            font-size: 12px;
+        }
+        .boxes{
+            display: flex;
+            flex-direction: column;
+        }
+        .boxes2{
+            display: flex;
+            flex-direction: column;
+            margin-top: 120px;
+        }
+        .box1{
+            width:245px;
+            margin-left: 30px;
+        }
+        .sekill{
+            width: 245px;
+        }
+        .boxt{
+            font-size: 26px;
+        }
+        .main9{
+            margin-top: 120px;
+        }
+        .boxx{
+            width: 280px;
+            height: 240px;
+            margin-left: 5px;
+        }
+        .text5{
+            font-size: 10px;
+            margin-left: 10px;
+        }
+        .pp{
+            width: 80px;
+        }
+        .namee{
+            font-size: 14px;
+            margin-top: 10px;
+        }
+        .fb{
+            width: 15px;
+        }
+        .maint7{
+            font-size: 26px;
+        }
+        .texx{
+            font-size: 12px;
+            margin-left: 20px;
+        }
+        .texx2{
+            font-size: 37px;
+            margin-top: 10px;
+            margin-left: 20px;
+        }
+        .mm{
+            font-size: 12px;
+        }
+        .nn{
+            font-size: 10px;
+        }
+        .end{
+            width: 10%;
+        }
+        .sss{
+            margin-left: 50px;
+        }
+        .sol{
+            margin-left: -10px;
+        }
+        .display7{
+            display: flex;
+            flex-direction: column;
+        }
+        .border{
+            width: 54px;
+            margin-left: -60px;
+
+        }
+        .iq{
+            width: 15px;
+        }
+        .icon1{
+            margin-left: 20px;
+            margin-top: 10px;
+        }
+        /* .s2{
+            width: 148px;
+            margin-left: 50px;
+        } */
+        .num{
+            font-size: 12px;
+        }
+        .tell{
+            display: flex;
+            width: 10px;
+            margin-top: 50px;
+            margin-left: 20px;
+        }
+        .num2{
+            font-size: 12px;
+        }
+        .tel2{
+            width: 10px;
+            margin-top: 50px;
+        }
+        .phn{
+            margin-left:170px;
+            width: 10px;
+        }
+        .eml{
+            display: flex;
+            margin-left: 20px;
+            margin-top: 60px;
+            width: 10px;
+        }
+        .last{
+            font-size: 10px;
+            display: flex;
+            justify-content: flex-start;
+            margin-left: 20px;
+        }
+    }
+    @media screen and (min-width:992px) and (max-width:1279px) {
+.mainn1{
+    display: flex;
+    justify-content: space-around;
+    width: 40%;
+}
+ul{
+    margin-left: 50px;
+}
+.boxes{
+display: flex;
+justify-content: space-around;
+}
+.box1{
+    width: 28%;
+}
+.sekill{
+    width: 100%;
+}
+.boxes2{
+    display: flex;
+    justify-content: space-around;
+    width: 85%;
+    margin-left: -50px;
+    }
+    .boxx{
+        margin-top: -30px;
+    }
+    .texx2{
+        margin-left: 60px
+    }
+    .texx{
+        margin-left: 60px
+    }
+
+    }
